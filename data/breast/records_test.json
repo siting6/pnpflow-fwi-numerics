@@ -1,0 +1,386 @@
+[
+ {
+  "row": 0,
+  "case": "breast_00_540368514A",
+  "phantom_id": "540368514A",
+  "breast_type": "A",
+  "range_project": [
+   7.833190328663792,
+   8.601430495689655
+  ],
+  "target_lesion_px": 135,
+  "lesion_equivalent_radius_px": 6.47009801864624
+ },
+ {
+  "row": 1,
+  "case": "breast_01_540398569A",
+  "phantom_id": "540398569A",
+  "breast_type": "A",
+  "range_project": [
+   8.104914466594828,
+   8.682217807112067
+  ],
+  "target_lesion_px": 129,
+  "lesion_equivalent_radius_px": 6.489031791687012
+ },
+ {
+  "row": 2,
+  "case": "breast_02_540743282A",
+  "phantom_id": "540743282A",
+  "breast_type": "A",
+  "range_project": [
+   7.764897629310345,
+   8.505816945043103
+  ],
+  "target_lesion_px": 132,
+  "lesion_equivalent_radius_px": 6.454548358917236
+ },
+ {
+  "row": 3,
+  "case": "breast_03_540833600A",
+  "phantom_id": "540833600A",
+  "breast_type": "A",
+  "range_project": [
+   7.953945312499999,
+   8.56895406788793
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.534181118011475
+ },
+ {
+  "row": 4,
+  "case": "breast_04_540863709A",
+  "phantom_id": "540863709A",
+  "breast_type": "A",
+  "range_project": [
+   7.921889816810344,
+   8.618929148706895
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.451280117034912
+ },
+ {
+  "row": 5,
+  "case": "breast_05_540906683A",
+  "phantom_id": "540906683A",
+  "breast_type": "A",
+  "range_project": [
+   7.79136651400862,
+   8.579740705818965
+  ],
+  "target_lesion_px": 129,
+  "lesion_equivalent_radius_px": 6.401059150695801
+ },
+ {
+  "row": 6,
+  "case": "breast_06_540981494A",
+  "phantom_id": "540981494A",
+  "breast_type": "A",
+  "range_project": [
+   7.978933863146551,
+   8.58384630926724
+  ],
+  "target_lesion_px": 133,
+  "lesion_equivalent_radius_px": 6.5162272453308105
+ },
+ {
+  "row": 7,
+  "case": "breast_07_541091349A",
+  "phantom_id": "541091349A",
+  "breast_type": "A",
+  "range_project": [
+   7.887268318965517,
+   8.495129983836206
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.528224468231201
+ },
+ {
+  "row": 8,
+  "case": "breast_08_536130106B",
+  "phantom_id": "536130106B",
+  "breast_type": "B",
+  "range_project": [
+   7.948169450431034,
+   8.529194504310345
+  ],
+  "target_lesion_px": 144,
+  "lesion_equivalent_radius_px": 6.591608047485352
+ },
+ {
+  "row": 9,
+  "case": "breast_09_536155206B",
+  "phantom_id": "536155206B",
+  "breast_type": "B",
+  "range_project": [
+   7.791130792025862,
+   8.63482354525862
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.455390930175781
+ },
+ {
+  "row": 10,
+  "case": "breast_10_536162047B",
+  "phantom_id": "536162047B",
+  "breast_type": "B",
+  "range_project": [
+   7.856849407327585,
+   8.506192079741378
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.534519195556641
+ },
+ {
+  "row": 11,
+  "case": "breast_11_536164121B",
+  "phantom_id": "536164121B",
+  "breast_type": "B",
+  "range_project": [
+   7.816033809267241,
+   8.52982219827586
+  ],
+  "target_lesion_px": 128,
+  "lesion_equivalent_radius_px": 6.451280117034912
+ },
+ {
+  "row": 12,
+  "case": "breast_12_536243014B",
+  "phantom_id": "536243014B",
+  "breast_type": "B",
+  "range_project": [
+   7.88969692887931,
+   8.573209186422414
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.552761077880859
+ },
+ {
+  "row": 13,
+  "case": "breast_13_536276614B",
+  "phantom_id": "536276614B",
+  "breast_type": "B",
+  "range_project": [
+   7.757242726293103,
+   8.525825026939655
+  ],
+  "target_lesion_px": 139,
+  "lesion_equivalent_radius_px": 6.432750701904297
+ },
+ {
+  "row": 14,
+  "case": "breast_14_537079670B",
+  "phantom_id": "537079670B",
+  "breast_type": "B",
+  "range_project": [
+   7.895870150862068,
+   8.546459455818965
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.506551742553711
+ },
+ {
+  "row": 15,
+  "case": "breast_15_537116163B",
+  "phantom_id": "537116163B",
+  "breast_type": "B",
+  "range_project": [
+   8.009825565732758,
+   8.57920797413793
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.48562479019165
+ },
+ {
+  "row": 16,
+  "case": "breast_16_720792650C",
+  "phantom_id": "720792650C",
+  "breast_type": "C",
+  "range_project": [
+   7.851095096982758,
+   8.529389143318966
+  ],
+  "target_lesion_px": 137,
+  "lesion_equivalent_radius_px": 6.539929389953613
+ },
+ {
+  "row": 17,
+  "case": "breast_17_721262586C",
+  "phantom_id": "721262586C",
+  "breast_type": "C",
+  "range_project": [
+   8.00444302262931,
+   8.625749595905171
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.513852119445801
+ },
+ {
+  "row": 18,
+  "case": "breast_18_721374968C",
+  "phantom_id": "721374968C",
+  "breast_type": "C",
+  "range_project": [
+   7.835909886853448,
+   8.584700969827585
+  ],
+  "target_lesion_px": 137,
+  "lesion_equivalent_radius_px": 6.500433444976807
+ },
+ {
+  "row": 19,
+  "case": "breast_19_721484763C",
+  "phantom_id": "721484763C",
+  "breast_type": "C",
+  "range_project": [
+   7.889630253232758,
+   8.525796066810344
+  ],
+  "target_lesion_px": 137,
+  "lesion_equivalent_radius_px": 6.518092155456543
+ },
+ {
+  "row": 20,
+  "case": "breast_20_721846121C",
+  "phantom_id": "721846121C",
+  "breast_type": "C",
+  "range_project": [
+   8.026743669181034,
+   8.654444369612069
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.484253883361816
+ },
+ {
+  "row": 21,
+  "case": "breast_21_722725989C",
+  "phantom_id": "722725989C",
+  "breast_type": "C",
+  "range_project": [
+   7.896925511853448,
+   8.483813981681033
+  ],
+  "target_lesion_px": 133,
+  "lesion_equivalent_radius_px": 6.495671272277832
+ },
+ {
+  "row": 22,
+  "case": "breast_22_722730621C",
+  "phantom_id": "722730621C",
+  "breast_type": "C",
+  "range_project": [
+   8.007155845905173,
+   8.53421807650862
+  ],
+  "target_lesion_px": 133,
+  "lesion_equivalent_radius_px": 6.451280117034912
+ },
+ {
+  "row": 23,
+  "case": "breast_23_723026494C",
+  "phantom_id": "723026494C",
+  "breast_type": "C",
+  "range_project": [
+   7.856092403017241,
+   8.520034348060344
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.475391864776611
+ },
+ {
+  "row": 24,
+  "case": "breast_24_711216014D",
+  "phantom_id": "711216014D",
+  "breast_type": "D",
+  "range_project": [
+   8.076832570043102,
+   8.65681640625
+  ],
+  "target_lesion_px": 138,
+  "lesion_equivalent_radius_px": 6.641054153442383
+ },
+ {
+  "row": 25,
+  "case": "breast_25_711251155D",
+  "phantom_id": "711251155D",
+  "breast_type": "D",
+  "range_project": [
+   7.89713766163793,
+   8.571130792025862
+  ],
+  "target_lesion_px": 132,
+  "lesion_equivalent_radius_px": 6.514191150665283
+ },
+ {
+  "row": 26,
+  "case": "breast_26_711269577D",
+  "phantom_id": "711269577D",
+  "breast_type": "D",
+  "range_project": [
+   7.970862068965516,
+   8.604115032327586
+  ],
+  "target_lesion_px": 134,
+  "lesion_equivalent_radius_px": 6.499243259429932
+ },
+ {
+  "row": 27,
+  "case": "breast_27_711301394D",
+  "phantom_id": "711301394D",
+  "breast_type": "D",
+  "range_project": [
+   7.811420393318965,
+   8.691431842672413
+  ],
+  "target_lesion_px": 132,
+  "lesion_equivalent_radius_px": 6.406581878662109
+ },
+ {
+  "row": 28,
+  "case": "breast_28_711306901D",
+  "phantom_id": "711306901D",
+  "breast_type": "D",
+  "range_project": [
+   8.030076778017241,
+   8.623069100215517
+  ],
+  "target_lesion_px": 136,
+  "lesion_equivalent_radius_px": 6.504533290863037
+ },
+ {
+  "row": 29,
+  "case": "breast_29_711317589D",
+  "phantom_id": "711317589D",
+  "breast_type": "D",
+  "range_project": [
+   7.8983539870689645,
+   8.65583984375
+  ],
+  "target_lesion_px": 139,
+  "lesion_equivalent_radius_px": 6.538408279418945
+ },
+ {
+  "row": 30,
+  "case": "breast_30_711459184D",
+  "phantom_id": "711459184D",
+  "breast_type": "D",
+  "range_project": [
+   7.788342537715517,
+   8.5466796875
+  ],
+  "target_lesion_px": 135,
+  "lesion_equivalent_radius_px": 6.501793384552002
+ },
+ {
+  "row": 31,
+  "case": "breast_31_711703005D",
+  "phantom_id": "711703005D",
+  "breast_type": "D",
+  "range_project": [
+   7.957201643318965,
+   8.56240167025862
+  ],
+  "target_lesion_px": 131,
+  "lesion_equivalent_radius_px": 6.469414710998535
+ }
+]

@@ -1,0 +1,43 @@
+{
+ "n_samples": 50,
+ "spatial_shape": [
+  64,
+  64
+ ],
+ "description": "The same 50 circle geometries as the constant-background set, with the background replaced by a smooth Gaussian random field around 8 model units; only background pixels differ.",
+ "normalization": {
+  "method": "minmax",
+  "min": 4.0,
+  "max": 12.0,
+  "target_min": -1.0,
+  "target_max": 1.0
+ },
+ "background_recipe": {
+  "seed": 20260913,
+  "scales_px": [
+   0.6,
+   2.0,
+   6.0
+  ],
+  "weights": [
+   0.25,
+   0.35,
+   0.4
+  ],
+  "background_std": [
+   0.15,
+   0.45
+  ],
+  "background_reference": 8.0,
+  "allowed_range": [
+   4.0,
+   12.0
+  ]
+ },
+ "texture_seed_namespace": "400000+row",
+ "range_project": [
+  4.188211917877197,
+  11.974638223648071
+ ],
+ "records": "records_test.json lists, per target, the requested and realized background standard deviation and the number of inclusion pixels."
+}

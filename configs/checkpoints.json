@@ -1,0 +1,12 @@
+{
+  "flat": {
+    "filename": "flow_otcfm_64x64_circlesV1_ema.pt",
+    "size_bytes": 70814060,
+    "sha256": "57de8e233e8f3b8bb8d3ca7ee2853905495f8444ccdf39a3a3ebd48bb133be94"
+  },
+  "gauss": {
+    "filename": "flow_otcfm_64x64_circlesGaussianV1_ema.pt",
+    "size_bytes": 70816444,
+    "sha256": "836587147d235a565fd691f02457f36c8c006228f25fdb52522f1fd49b0ba8b6"
+  }
+}

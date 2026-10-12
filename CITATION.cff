@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the manuscript below."
+title: "PnP-Flow FWI: code and data for the three main tables"
+type: software
+authors:
+  - name: "The authors of the manuscript below"
+license: MIT
+preferred-citation:
+  type: article
+  title: "An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging"
+  year: 2026

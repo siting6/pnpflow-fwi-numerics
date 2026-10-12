@@ -1,0 +1,28 @@
+{
+ "n_samples": 32,
+ "spatial_shape": [
+  64,
+  64
+ ],
+ "description": "Thirty-two 64 x 64 patches of numerical breast phantoms, eight per breast type A-D, each containing one target lesion (target_mask) among all lesions (circle_mask).",
+ "source": "2D Acoustic Numerical Breast Phantoms and USCT Measurement Data, Harvard Dataverse, doi:10.7910/DVN/CUFVKE (CC0 1.0)",
+ "conversion": "model units = speed of sound in m/s * 8 / 1450",
+ "normalization": {
+  "method": "minmax",
+  "min": 4.0,
+  "max": 12.0,
+  "target_min": -1.0,
+  "target_max": 1.0
+ },
+ "per_type": {
+  "A": 8,
+  "B": 8,
+  "C": 8,
+  "D": 8
+ },
+ "range_project": [
+  7.757242679595947,
+  8.691431999206543
+ ],
+ "records": "records_test.json lists, per patch, the phantom identifier, breast type, speed range and target-lesion size."
+}

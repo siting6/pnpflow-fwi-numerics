@@ -1,0 +1,17 @@
+{
+ "n_samples": 50,
+ "spatial_shape": [
+  64,
+  64
+ ],
+ "description": "Fifty constant-background circle targets: discs of random radius and speed on a background of 8 model units, held out from the training distribution of the constant-background prior.",
+ "normalization": {
+  "method": "minmax",
+  "min": 4.000406265258789,
+  "max": 11.998579025268555,
+  "target_min": -1.0,
+  "target_max": 1.0,
+  "note": "Stored in [-1, 1] with the statistics of the training set; the experiments map [-1, 1] to [4, 12] model units."
+ },
+ "solver_grid": "The last column is dropped before inversion: 64 x 63. In this set it repeats the first column in 49 of the 50 images."
+}

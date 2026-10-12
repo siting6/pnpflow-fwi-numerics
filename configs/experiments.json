@@ -1,0 +1,42 @@
+{
+  "pnp": {
+    "blocks": 50,
+    "block_size": 50,
+    "step": 0.1,
+    "t_start": 0.5,
+    "proposals": 8,
+    "seeds": [0, 1, 2, 3]
+  },
+  "tv": {
+    "updates": 2500
+  },
+  "cohorts": {
+    "flat": {
+      "title": "Constant-background circles",
+      "n_images": 50,
+      "data": "data/flat/data_test.npz",
+      "data_sha256": "ec9eff4bb5b56b55d918bb60a7ac38a8bce6713eb3b81f3408904e65f9fd16fd",
+      "prior": "flat",
+      "tv_weight": 0.0003,
+      "tv_step": 0.1
+    },
+    "gauss": {
+      "title": "Gaussian-background circles",
+      "n_images": 50,
+      "data": "data/gauss/data_test.npz",
+      "data_sha256": "814be787b5a07e2e22ddda5dcdb13cf5a29ae71972f454927948527851443354",
+      "prior": "gauss",
+      "tv_weight": 0.003,
+      "tv_step": 0.01
+    },
+    "breast": {
+      "title": "Breast phantom patches",
+      "n_images": 32,
+      "data": "data/breast/data_test.npz",
+      "data_sha256": "0fe1ea4af6142c9c320838405bd357e9b92ed5a688df1207eb1035cd93ba536f",
+      "prior": "gauss",
+      "tv_weight": 0.003,
+      "tv_step": 0.01
+    }
+  }
+}
